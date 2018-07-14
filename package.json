@@ -1,0 +1,22 @@
+{
+  "name": "haishen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linyajing/haishen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linyajing/haishen/issues"
+  },
+  "homepage": "https://github.com/linyajing/haishen#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
